@@ -17,3 +17,5 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jomulagy688)](http://solved.ac/jomulagy688/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomulagy&show_icons=true&theme=radical)
